@@ -53,7 +53,6 @@ newsensations.com##:xpath(//div[@class='specialpage']/../..)
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!             CAM SODA             !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-https://www.camsoda.com
 ||media.camsoda.com/assets/img/promo_bubble_50.png$image
 www.camsoda.com##div.browser-module__iframedHide--qakrm:nth-of-type(4)
 www.camsoda.com##.browser-module__iframedHide--qakrm.RightSideBanner-module__right--oO4ig
