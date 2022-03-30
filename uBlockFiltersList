@@ -1,0 +1,105 @@
+!!! TEMPORARY RULES !!!
+!
+! 2021-08-01 https://www.scorepass.com
+!www.scorepass.com##.item-img
+!www.scorepass.com##.small.rating
+!www.scorepass.com##.info > div:nth-of-type(3)
+!www.scorepass.com##.left.item-img
+!www.scorepass.com##.small.rating
+!www.scorepass.com##.item-img
+!www.scorepass.com##.pt-1.pl-1.f-r.i-amount
+!www.scorepass.com##.f-r.i-views
+!www.scorepass.com##.tn
+!
+!!! --------------- !!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!          THICK N STACKED         !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+thicknstacked.com##div.code-block
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!            CAMSLIB.COM           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+camslib.com###A0mGc1fFdwt0DD9SModal
+camslib.com##.show.fade.modal-backdrop
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!            CAMSTUBE.ME           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+camstube.me##.isActive.slickModal
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!           PIN-UP FILES           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.pinupfiles.com##.item-thumb
+www.pinupfiles.com##.stars
+www.pinupfiles.com##div.item-row:nth-of-type(2)
+www.pinupfiles.com##.item-models
+www.pinupfiles.com##.photo_gallery_block
+www.pinupfiles.com##.models-list-thumbs.update-info-block
+www.pinupfiles.com##.mejs__inner
+www.pinupfiles.com/members/custom_assets/images/logo_pinupfiles.png$image
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!            SCORE PASS            !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+www.scorepass.com##.row.banners
+www.scorepass.com##.pos-rel.item-img
+www.scorepass.com##.pt-1.pl-1.f-r.i-amount
+www.scorepass.com##.pt-1.f-r.i-date
+www.scorepass.com##.i-model
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!          NEW SENSATIONS          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+newsensations.com##:xpath(//div[@class='specialpage']/../..)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!             CAM SODA             !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://www.camsoda.com
+||media.camsoda.com/assets/img/promo_bubble_50.png$image
+www.camsoda.com##div.browser-module__iframedHide--qakrm:nth-of-type(4)
+www.camsoda.com##.browser-module__iframedHide--qakrm.RightSideBanner-module__right--oO4ig
+www.camsoda.com##.App-module__content--U5bBa > .browser-module__iframedHide--qakrm
+www.camsoda.com##.wrapper-module__colRight--eu1tW
+www.camsoda.com##.wrapper-module__colLeft--S2Eho:style(width: 100% !important)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!             CHATURBATE           !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!! General Rules
+chaturbate.com###ChatTabContainer:remove()
+chaturbate.com###VideoPanel:style(width: 100% !important)
+!
+!!!! Remove all male and transgender rooms
+chaturbate.com##li:has(span.genders)
+chaturbate.com##li:has(span.genderm)
+!
+!!!! Remove all followed models outside of the Followed Cams page
+chaturbate.com##:not(:matches-path(/followed-cams))li:has(div[class="icon_following no_select login_required"])
+!
+!!!! Remove all listed models
+chaturbate.com##li.room_list_room:has(div.title a:has-text(1sland_girl))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(alexa_kroft))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(anie_honey))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(bootylollita))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(bustylora900))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(cathalina_horny__))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(catherinerowe))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(celesteveles))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(cleopatra_bigboobs))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(curvygirls69))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(hill_lauren))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(hornyboobs18))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(laurenswells))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(lixeta25))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(lunafer12))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(megandavidson))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(ninadollbbw))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(sawa_caddy))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(saylormoonx))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(sexy_house))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(sexyebonylove89))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(sweet_booty1))
+chaturbate.com##li.room_list_room:has(div.title a:has-text(vanessaboobsx1))
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!             NEW SITE             !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!INSERT NEW RULES HERE
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
